@@ -1,0 +1,9 @@
+example = [
+ {
+  "id":1,          #=>数値（number）
+  "name":"kazu"    #=>文字列値（string）
+  "age": null      #=>ヌル値（null）
+  "children": true #=>真偽値（boolean）
+  "array": [1, "foo", "bar", "baz"]
+ }
+]
